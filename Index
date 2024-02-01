@@ -3,7 +3,7 @@
   index
   1/31/2024
   -->
-<html lang=en=>
+<html lang="en"=>
 <head>
     <title>Wild Rescues Template:</title>
 <meta charset="utf"-8>
@@ -22,13 +22,13 @@
   Gallery &nbsp; &#9672; &nbsp;
   FAQs &nbsp; &#9672; &nbsp;
   Contact Us</p>
-<nav>
+</nav>
 
-<!--Use the main area to add the main content to the webpage-->
+  <!--Use the main area to add the main content to the webpage-->
 <main>
-  <p> Welcome to Wild Rescues. Our mission is to rescue, rehabilitate, and release wildlife back into their natural enviroment. We are a nonprofit organziation dedicated to helping injured wildlife.</p>
+  <p>Welcome to Wild Rescues. Our mission is to rescue, rehabilitate, and release wildlife back into their natural enviroment. We are a nonprofit organziation dedicated to helping injured wildlife.</p>
 
-  <p> Our staff provides around-the-clock care for wildlife in need. We also provide long-term care for wildlife that that cannnot be released back into their natural enviroment.</p>
+  <p>Our staff provides around-the-clock care for wildlife in need. We also provide long-term care for wildlife that that cannnot be released back into their natural enviroment.</p>
 
   <p>Will you partner with us? We need caring volunteers to help care for our animals. You can also donate, become a member, or become a sponsor. Contact us today.</p>
 </main>
@@ -37,5 +37,6 @@
   <p>&copy; Copyright2021. All Rights Reserved.</p>
   <p> contact@wildrescues.net</p>
 </footer>
+
 </body>
 </html>
